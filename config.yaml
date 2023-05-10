@@ -1,0 +1,14 @@
+baseURL: https://uninotes.ryanbester.com/
+languageCode: en-gb
+title: University Notes
+theme: hugo-book
+
+params:
+  BookTheme: auto
+  BookToC: true
+
+markup:
+  tableOfContents:
+    endLevel: 4
+    ordered: false
+    startLevel: 2

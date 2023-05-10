@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap');
+
+html,
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.markdown a {
+    color: inherit;
+    border-bottom: 3px solid var(--color-link);
+    background-image: linear-gradient(to top, transparent, transparent 50%, var(--color-link) 50%, var(--color-link));
+    background-position: 0 -100%;
+    background-size: 100% 200%;
+    transition: all .25s ease-in;
+}
+
+.markdown a:visited {
+    color: var(--body-font-color);
+}
+
+.markdown a:hover {
+    text-decoration: none;
+    background-position: 0 0;
+    color: var(--body-background)
+}
