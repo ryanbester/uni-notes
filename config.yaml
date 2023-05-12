@@ -3,6 +3,11 @@ languageCode: en-gb
 title: University Notes
 theme: hugo-book
 
+menu:
+  after:
+    - name: Resources
+      url: "https://github.com/ryanbester/uni-resources"
+
 params:
   BookTheme: auto
   BookToC: true
