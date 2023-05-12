@@ -12,4 +12,5 @@ weight: 1
 # Cyber Security and Forensic Computing
 
 - [1. Linux Commands and Vim](linux-commands)
+- [2. Linux Basics](linux-basics)
 - [Glossary](glossary)
