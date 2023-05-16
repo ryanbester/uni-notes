@@ -16,4 +16,5 @@ weight: 1
 - [1.3. Pattern Matching](pattern-matching)
 - [1.4. Processes](processes)
 - [1.5. Port Scanning &amp; Server Security](port-scanning-server-security)
+- [1.6. Web &amp; SQL Scanning](web-sql-scanning)
 - [Glossary](glossary)
