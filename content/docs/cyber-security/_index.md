@@ -19,4 +19,5 @@ weight: 1
 - [1.6. Web & SQL Scanning](web-sql-scanning)
 - [1.7. Port Scanning 2 & Packet Capturing](port-scanning-2-packet-capturing)
 - [1.8. Network Traffic Analysis](network-traffic-analysis)
+- [1.9. Hardening](hardening)
 - [Glossary](glossary)
