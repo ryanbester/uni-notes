@@ -13,4 +13,5 @@ weight: 1
 
 - [1. Linux Commands and Vim](linux-commands)
 - [2. Linux Basics](linux-basics)
+- [3. Pattern Matching](pattern-matching)
 - [Glossary](glossary)
