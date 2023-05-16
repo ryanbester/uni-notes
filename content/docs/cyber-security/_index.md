@@ -15,4 +15,5 @@ weight: 1
 - [1.2. Linux Basics](linux-basics)
 - [1.3. Pattern Matching](pattern-matching)
 - [1.4. Processes](processes)
+- [1.5. Port Scanning &amp; Server Security](port-scanning-server-security)
 - [Glossary](glossary)
