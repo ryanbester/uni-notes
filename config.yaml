@@ -11,6 +11,8 @@ menu:
 params:
   BookTheme: auto
   BookToC: true
+  BookRepo: 'https://github.com/ryanbester/uni-notes'
+  BookEditPath: 'edit/master'
 
 markup:
   tableOfContents:
