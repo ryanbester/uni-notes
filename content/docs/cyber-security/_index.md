@@ -11,7 +11,8 @@ weight: 1
 
 # Cyber Security and Forensic Computing
 
-- [1. Linux Commands and Vim](linux-commands)
-- [2. Linux Basics](linux-basics)
-- [3. Pattern Matching](pattern-matching)
+- [1.1. Linux Commands and Vim](linux-commands)
+- [1.2. Linux Basics](linux-basics)
+- [1.3. Pattern Matching](pattern-matching)
+- [1.4. Processes](processes)
 - [Glossary](glossary)

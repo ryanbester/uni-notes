@@ -1,5 +1,5 @@
 ---
-title: "2. Linux Basics"
+title: "1.2. Linux Basics"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# 2. Linux Basics
+# 1.2. Linux Basics
 
 ## Introduction
 

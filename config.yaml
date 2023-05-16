@@ -2,6 +2,7 @@ baseURL: https://uninotes.ryanbester.com/
 languageCode: en-gb
 title: University Notes
 theme: hugo-book
+copyright: 'Ryan Bester'
 
 menu:
   after:

@@ -1,5 +1,5 @@
 ---
-title: "3. Pattern Matching"
+title: "1.3. Pattern Matching"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# 3. Pattern Matching
+# 1.3. Pattern Matching
 
 Pattern matching is where strings of text are found using a **regular expressions**. Without **regular expressions**, **keyword searching** would have to be used.
 

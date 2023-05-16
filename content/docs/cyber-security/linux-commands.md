@@ -1,5 +1,5 @@
 ---
-title: "1. Linux Commands and Vim"
+title: "1.1. Linux Commands and Vim"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,7 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# 1. Linux Commands and Vim
+# 1.1. Linux Commands and Vim
 
 ## Common Commands
 
