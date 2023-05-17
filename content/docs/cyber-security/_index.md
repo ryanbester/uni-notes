@@ -20,4 +20,5 @@ weight: 1
 - [1.7. Port Scanning 2 & Packet Capturing](port-scanning-2-packet-capturing)
 - [1.8. Network Traffic Analysis](network-traffic-analysis)
 - [1.9. Hardening](hardening)
+- [1.10. Access Control](access-control)
 - [Glossary](glossary)
