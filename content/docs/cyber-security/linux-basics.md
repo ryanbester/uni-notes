@@ -39,6 +39,7 @@ The Linux filesystem is structured in accordance to the [Filesystem Hierarchy St
 | `/opt` | Additional add-on packages |
 | `/root` | Home directory for root (admin) user |
 | `/usr` | Shareable read-only directory |
+| `/var` | Log files, MySQL/database files, web server data files, email inboxes, etc. |
 
 ## File Permissions
 
