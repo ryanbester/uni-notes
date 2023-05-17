@@ -21,4 +21,5 @@ weight: 1
 - [1.8. Network Traffic Analysis](network-traffic-analysis)
 - [1.9. Hardening](hardening)
 - [1.10. Access Control](access-control)
+- [1.11. CIA and Cryptography](cia)
 - [Glossary](glossary)
