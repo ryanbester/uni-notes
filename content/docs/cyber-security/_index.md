@@ -28,4 +28,5 @@ weight: 1
 - [1.15. Evidence Acquisition: RAM](evidence-acquisition-ram)
 - [1.16. Hashing](hashing)
 - [1.17. Data Representation](data-representation)
+- [1.18. Authentication](authentication)
 - [Glossary](glossary)
