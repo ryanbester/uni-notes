@@ -27,4 +27,5 @@ weight: 1
 - [1.14. Evidence Acquisition: USB](evidence-acquisition-usb)
 - [1.15. Evidence Acquisition: RAM](evidence-acquisition-ram)
 - [1.16. Hashing](hashing)
+- [1.17. Data Representation](data-representation)
 - [Glossary](glossary)
