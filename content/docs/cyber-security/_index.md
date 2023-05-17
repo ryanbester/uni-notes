@@ -23,4 +23,5 @@ weight: 1
 - [1.10. Access Control](access-control)
 - [1.11. CIA and Cryptography](cia)
 - [1.12. ACPO Guidelines](acpo-guidelines)
+- [1.13. Evidence Acquisition: Hard Drives](evidence-acquisition-hard-drives)
 - [Glossary](glossary)
