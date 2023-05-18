@@ -29,4 +29,5 @@ weight: 1
 - [1.16. Hashing](hashing)
 - [1.17. Data Representation](data-representation)
 - [1.18. Authentication](authentication)
+- [1.19. File Allocation](file-allocation)
 - [Glossary](glossary)
