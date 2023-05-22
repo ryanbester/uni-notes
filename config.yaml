@@ -6,7 +6,7 @@ copyright: 'Ryan Bester'
 
 menu:
   after:
-    - name: Resources
+    - name: 🔒 Resources
       url: "https://github.com/ryanbester/uni-resources"
 
 params:
