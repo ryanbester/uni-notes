@@ -18,5 +18,4 @@ bookCollapseSection: true
 - [5. Computer Memory Systems](computer-memory-systems)
 - [6. Operating Systems Introduction](operating-systems-intro)
 - [7. Process Manager](os-process-manager)
-- [8. Process Scheduling 1](os-process-scheduling-1)
-- [9. Process Scheduling 2](os-process-scheduling-2)
+- [8. Process Scheduling](os-process-scheduling-1)
