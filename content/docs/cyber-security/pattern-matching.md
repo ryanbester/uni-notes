@@ -113,4 +113,4 @@ For the keyword searching limitations above:
 - `192\.168\.([:digit:]{1,3})\.([:digit:]{1,3})` will match `192.168.0.0` and `192.168.10.2`
     - Note the use of **escape operators** `\`, and the **repetition operator**.
 
-For more information on regular expressions, see [RegExr](https://regexr.com/) and [Regular-Expressions.info](https://www.regular-expressions.info/).
+For more information on regular expressions, see [RegExr](https://regexr.com/), [Cyrilex](https://extendsclass.com/regex-tester.html) and [Regular-Expressions.info](https://www.regular-expressions.info/).
